@@ -1,0 +1,18 @@
+C:\Users\ORLANDO\source\repos\04\Data\bin\Debug\Data.dll
+C:\Users\ORLANDO\source\repos\04\Data\bin\Debug\Data.pdb
+C:\Users\ORLANDO\source\repos\04\Data\bin\Debug\Entity.dll
+C:\Users\ORLANDO\source\repos\04\Data\bin\Debug\Entity.pdb
+C:\Users\ORLANDO\source\repos\04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\ORLANDO\source\repos\04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ORLANDO\source\repos\04\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\ORLANDO\source\repos\04\Data\obj\Debug\Data.dll
+C:\Users\ORLANDO\source\repos\04\Data\obj\Debug\Data.pdb
+D:\App xamarin\wpf04\Data\bin\Debug\Data.dll
+D:\App xamarin\wpf04\Data\bin\Debug\Data.pdb
+D:\App xamarin\wpf04\Data\bin\Debug\Entity.dll
+D:\App xamarin\wpf04\Data\bin\Debug\Entity.pdb
+D:\App xamarin\wpf04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\App xamarin\wpf04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\App xamarin\wpf04\Data\obj\Debug\Data.csproj.CopyComplete
+D:\App xamarin\wpf04\Data\obj\Debug\Data.dll
+D:\App xamarin\wpf04\Data\obj\Debug\Data.pdb

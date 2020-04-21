@@ -1,0 +1,22 @@
+C:\Users\ORLANDO\source\repos\04\Business\bin\Debug\Business.dll
+C:\Users\ORLANDO\source\repos\04\Business\bin\Debug\Business.pdb
+C:\Users\ORLANDO\source\repos\04\Business\bin\Debug\Data.dll
+C:\Users\ORLANDO\source\repos\04\Business\bin\Debug\Entity.dll
+C:\Users\ORLANDO\source\repos\04\Business\bin\Debug\Data.pdb
+C:\Users\ORLANDO\source\repos\04\Business\bin\Debug\Entity.pdb
+C:\Users\ORLANDO\source\repos\04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\ORLANDO\source\repos\04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ORLANDO\source\repos\04\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\ORLANDO\source\repos\04\Business\obj\Debug\Business.dll
+C:\Users\ORLANDO\source\repos\04\Business\obj\Debug\Business.pdb
+D:\App xamarin\wpf04\Business\bin\Debug\Business.dll
+D:\App xamarin\wpf04\Business\bin\Debug\Business.pdb
+D:\App xamarin\wpf04\Business\bin\Debug\Data.dll
+D:\App xamarin\wpf04\Business\bin\Debug\Entity.dll
+D:\App xamarin\wpf04\Business\bin\Debug\Data.pdb
+D:\App xamarin\wpf04\Business\bin\Debug\Entity.pdb
+D:\App xamarin\wpf04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\App xamarin\wpf04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\App xamarin\wpf04\Business\obj\Debug\Business.csproj.CopyComplete
+D:\App xamarin\wpf04\Business\obj\Debug\Business.dll
+D:\App xamarin\wpf04\Business\obj\Debug\Business.pdb
